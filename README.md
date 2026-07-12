@@ -20,17 +20,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srividrumavangara&" alt="srividrumavangara" /></p>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/srividrumavangara/srividrumavangara/output/github-snake-dark.svg">
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/srividrumavangara/srividrumavangara/output/github-snake.svg">
-
-    <img
-      alt="GitHub Snake"
-      src="https://raw.githubusercontent.com/srividrumavangara/srividrumavangara/output/github-snake.svg">
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/srividrumavangara/srividrumavangara/output/github-snake.svg"
+    alt="GitHub Snake">
 </p>
