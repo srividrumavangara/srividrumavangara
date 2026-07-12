@@ -1,5 +1,5 @@
 <h1 align="center">Hie , I'm Sri Vidruma Vangara</h1>
-<h6 align="center">Currently gaslighting AI/ML into working while pretending I know exactly what I'm doing. Picking up random tech stacks faster than I can master them, committing to GitHub just enough to keep the green squares happy, and refusing to let my LeetCode streak die out of pure spite.</h3>
+<h6 align="center">Currently gaslighting AI/ML into working while pretending I know exactly what I'm doing. Picking up random tech stacks faster than I can master them, committing to GitHub just enough to keep the green squares happy, and refusing to let my LeetCode streak die out of pure spite.</h6>
 
 
 - 🔭 I’m currently working on **AI/ML Based Virtual Garbage Sorting System**
