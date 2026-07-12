@@ -30,7 +30,7 @@
       srcset="https://raw.githubusercontent.com/srividrumavangara/srividrumavangara/output/github-snake.svg">
 
     <img
-      alt="GitHub contribution snake"
+      alt="GitHub Snake"
       src="https://raw.githubusercontent.com/srividrumavangara/srividrumavangara/output/github-snake.svg">
   </picture>
 </p>
