@@ -21,6 +21,6 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/srividrumavangara/srividrumavangara/output/github-snake.svg"
-    alt="GitHub Snake">
+    src="https://raw.githubusercontent.com/srividrumavangara/srividrumavangara/output/pacman-contribution-graph.svg"
+    alt="Pac-Man contribution graph">
 </p>
