@@ -71,14 +71,6 @@ Currently gaslighting AI/ML into working while pretending I know exactly what I'
 
 ---
 
-# 🎮 Fun Zone
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/srividrumavangara/srividrumavangara/output/pacman-contribution-graph.svg"/>
-</p>
-
----
-
 <p align="center">
 Thanks for stopping by! ⭐
 </p>
